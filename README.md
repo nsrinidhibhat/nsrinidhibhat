@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [My Mail](nsrinidhibhat6996@gmail.com)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ... I make puns
--->
+
