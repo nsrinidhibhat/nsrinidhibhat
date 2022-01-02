@@ -9,8 +9,8 @@
 - 👯 I’m looking to collaborate on Computer Vision 
 - 🤔 I’m looking for help with Statistical/ Mathematical Approach to solving Machine Learning Problems
 - 💬 Ask me about.. I don't know, not famous enough to do an AMA
-- 📫 How to reach me: [mail_id](nsrinidhibhat6996@gmail.com)
-- ⚡ Fun fact: ... I used to make puns, but now the pun-chlines are not working. 
+- 📫 How to reach me: [nsrinidhibhat6996@gmail.com](nsrinidhibhat6996@gmail.com)
+- ⚡ Fun fact: ... I used to make puns, but now the punchlines are not working. 
 
 <hr>
 
