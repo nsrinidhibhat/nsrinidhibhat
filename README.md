@@ -1,4 +1,4 @@
-<h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<h1 align="center">Hey!👋🏻</h1>
 <h2 align="center">I'm Srinidhi</h2>
 <h3 align="center">Data Science Engineer Intern and ML enthusiast</h3>
 
