@@ -1,14 +1,14 @@
 <h1 align="center">Hey!👋🏻</h1>
 <h2 align="center">I'm Srinidhi</h2>
-<h3 align="center">Data Science Engineer Intern and ML enthusiast</h3>
+<h3 align="center">Data Science Engineer at Vunet Systems and a Machine Learning enthusiast</h3>
 
 <hr>
 
-- 🔭 I’m currently working on **Log Analytics**
+- 🔭 I’m currently working on **Applying NLP on the logs**
 - 🌱 I’m currently learning **Computer Vision**
 - 👯 I’m looking to collaborate on Computer Vision 
 - 🤔 I’m looking for help with Statistical/ Mathematical Approach to solving Machine Learning Problems
-- 📫 How to reach me: [nsrinidhibhat6996@gmail.com](nsrinidhibhat6996@gmail.com)
+- 📫 How to reach me: DM me on [Linkedin](https://www.linkedin.com/in/srinidhi-bhat-gg/)
 - ⚡ Fun fact: ... I used to make puns, but now the punchlines are not working. 
 
 <hr>
