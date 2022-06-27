@@ -4,12 +4,12 @@
 
 <hr>
 
-- 🔭 I’m currently working on **Applying NLP on the logs**
+- 🔭 I’m currently working on **Applying NLP on Logs: Log Analytics**
 - 🌱 I’m currently learning **Computer Vision**
-- 👯 I’m looking to collaborate on Computer Vision 
-- 🤔 I’m looking for help with Statistical/ Mathematical Approach to solving Machine Learning Problems
+- 👯 I’m looking to collaborate on **Computer Vision** 
+- 🤔 I’m looking for help with **Statistical/ Mathematical Approach to solving Machine Learning Problems**
 - 📫 How to reach me: DM me on [Linkedin](https://www.linkedin.com/in/srinidhi-bhat-gg/)
-- ⚡ Fun fact: ... I used to make puns, but now the punchlines are not working. 
+- ⚡ Fun fact: I used to make puns, but now the punchlines are not working. 
 
 <hr>
 
