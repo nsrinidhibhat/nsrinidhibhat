@@ -1,15 +1,15 @@
-<h1 align="center">Hey!👋🏻</h1>
+<h1 align="center">Hey!</h1>
 <h2 align="center">I'm Srinidhi</h2>
 <h3 align="center">Data Science Engineer at Vunet Systems and a Machine Learning enthusiast</h3>
 
 <hr>
 
 - 🔭 I’m currently working on **Applying NLP on Logs: Log Analytics**
-- 🌱 I’m currently learning **Computer Vision**
-- 👯 I’m looking to collaborate on **Computer Vision** 
+- 🌱 I’m currently learning **NLP**
+- 👯 I’m looking to collaborate on **Learning Generative AI** 
 - 🤔 I’m looking for help with **Statistical/ Mathematical Approach to solving Machine Learning Problems**
-- 📫 How to reach me: DM me on [Linkedin](https://www.linkedin.com/in/srinidhi-bhat-gg/)
-- ⚡ Fun fact: I used to make puns, but now the punchlines are not working. 
+- 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/srinidhi-bhat-gg/)
+- ⚡ Fun fact: I used to make puns, but my punchlines aren't working! 
 
 <hr>
 
